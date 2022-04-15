@@ -97,6 +97,7 @@ Sync:
 Most components and full systems already exist on the market with wifi based internet radio streaming built in. Such could also be resold as a first step before creating more elaborate custom solutions.
 
 * https://aqua.hu/radiok-tuner/nedis-rdin2000wt-internetes-radio-feher-barna-t1071926
+* https://electronic-star.hu/HiFi-es-TV/Radiok/Internet-radiok/TuneUp-internet-radio-5-W-WLAN-USB-HCC-kijelzo-vonalkimenet-sotetszurke-Sotetszurke.html
 * https://euronics.hu/okostelefonok/blaupunkt-sm-05-4g-mobiltelefon-fekete-yettel-csomag-p268085
 
 ## References
