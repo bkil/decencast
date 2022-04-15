@@ -64,6 +64,13 @@
 
 > Úgyis rétegrádió, aki tilost hallgat az vált webre
 
+## @sdd-:matrix.org
+
+> szerintem sokkal tobben szeretnek hibamentesen tovabbra is az fm-en, otthon hallgatni, a meglevo net segitsegevel, amire mas megoldas nincs nagyon, mint egy exstreamer+fm transmitter
+vagy kidobja az fm radiot es vesz egy wifi-set, ami egy kicsit szurrealisnak tunik nekem
+sokan a zenei musorokat hallgatjak csak, azt nem fogjak 32-vel (lol) vagy akar a 100-as opus-on hallgatni mobilneten
+> nem fogjak bekapcsolni a szamitogepet radiohallgatashoz meg aztan akkor mast nem tudsz hallgatni a gepen akkor...
+
 ## @szabi:matrix.tilos.hu
 
 > [mikor volt az előző no frekk?] 1993-1995, 2001-2003
