@@ -2,7 +2,7 @@
 
 ## Concepts
 
-* Try to address tho use cases of existing users
+* Try to address the use cases of existing users
 * Outreach to new areas with low income over the digital divide
 
 ## Software
@@ -12,6 +12,7 @@
 * ability to bookmark subsections of a podcast
 * share deep links or media slices to subsections
 * recommendation engine
+* play 2 separate shows on the 2 stereo channels
 
 ### WAN
 
@@ -20,7 +21,7 @@
 
 ### Offline
 
-* sync schedule
+* sync electronic program guide schedule
 * prefetch as podcast: subscribe to concrete shows, general show tags, keywords in description
 * after transcript is available (or generated), fetch other recent podcasts that may be of interest for later listening as well
 * decompose podcast to subsections: add comments to a given point in time of a podcast that may sync to a forum or mailing list thread in batches
@@ -33,7 +34,7 @@
 
 ### Business model
 
-* resale of FM transmitter for home or automotive use with a markup
+* resale equipment with a markup: FM transmitter for home or automotive use, speakers, headphones, cables, powerbanks, phones, modems, USB chargers, loans
 * sponsorship subscription that provides a small cellular data plan (while subscribed) and hardware (from loan)
 
 ## Hardware
@@ -48,7 +49,7 @@
 
 ### Kitchen
 
-* phone/mifi (SBC, storage, Bluetooth, wifi)
+* phone (SBC, storage, Bluetooth, wifi)
 * 3.5mm jack line cable
 * FM transmitter
 * speaker (or built-in)
@@ -67,12 +68,31 @@
 
 ### Digital divide
 
-* possibly shared within family: speaker box with MP3 player or phone, jack line cable, wired speaker
-* possibly shared within family: USB SD card reader, USB cable, USB-OTG cable
-* personal SD card or USB thumb flash drive (perhaps USB-OTG): possibly shared with separate encrypted folders
-* periodically drive into a computer with Internet access (community center, office, school), let the website or portable executable app sync new content automatically based on personal profile
+Possibly shared within family:
 
-### Existing
+* phone or MP3 player (possibly with built-in speaker box)
+* 3.5mm jack line cable
+* 3.5mm left/right stereo to mono splitter cable: so they can listen to 2 different shows at the same time
+* wired speaker, headphones
+* USB SD card reader, USB cable, USB-OTG cable
+
+Personal:
+
+* SD card or USB thumb flash drive (perhaps USB-OTG)
+* possibly shared by separate, encrypted folders
+
+Sync:
+
+* periodically drive into a computer with Internet access (community center, office, school)
+* let the website or portable executable app sync new content automatically based on personal profile
+
+### Development components
+
+* https://en.wikipedia.org/wiki/Raspberry_Pi_Zero
+* https://en.wikipedia.org/wiki/ESP8266
+* https://en.wikipedia.org/wiki/OpenWrt
+
+### Existing systems
 
 Most components and full systems already exist on the market with wifi based internet radio streaming built in. Such could also be resold as a first step before creating more elaborate custom solutions.
 
