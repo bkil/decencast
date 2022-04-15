@@ -91,6 +91,8 @@ Sync:
 * https://en.wikipedia.org/wiki/Raspberry_Pi_Zero
 * https://en.wikipedia.org/wiki/ESP8266
 * https://en.wikipedia.org/wiki/OpenWrt
+* https://barix.com/exstreamer-100-105-110-120
+* https://aqua.hu/fm-transmitter/car-mp3-hf-mp3kw853-fm-transzmitter-t1064352
 
 ### Existing systems
 
