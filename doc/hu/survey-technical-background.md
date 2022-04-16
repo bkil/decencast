@@ -1,5 +1,10 @@
 # Technical background and limitations
 
+## @kazso:matrix.tilos.hu
+
+> sajna. a felhő drága.
+> megpróbálom megpingelni volt kolléga, Ő > 10 éve alapított 'felhőalapú megoldások' szolgáltatást.
+
 ## @sdd-:matrix.org
 
 * @sdd-:libera.chat
@@ -28,6 +33,7 @@
 
 * https://matrix.to/#/#tilos:matrix.tilos.hu
 * 2022-04-14 13:59:10
+* 2022-04-15
 
 ## News
 

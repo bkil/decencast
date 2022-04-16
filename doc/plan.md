@@ -3,7 +3,7 @@
 ## Concepts
 
 * Try to address the use cases of existing users
-* Outreach to new areas with low income over the digital divide
+* Outreach to new areas with low income to counter the digital divide
 
 ## Software
 
@@ -36,6 +36,7 @@
 
 * resale equipment with a markup: FM transmitter for home or automotive use, speakers, headphones, cables, powerbanks, phones, modems, USB chargers, loans
 * sponsorship subscription that provides a small cellular data plan (while subscribed) and hardware (from loan)
+* possibly offer a type of 2-for-1 subscription with which one may sponsor the hardware of one in need as well as their own
 
 ## Hardware
 
