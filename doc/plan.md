@@ -94,7 +94,6 @@
 * phone/mifi (SBC, storage, Bluetooth, wifi, 4G modem)
 * 4G subscription
 * 3.5mm jack line cable
-* FM transmitter
 * speaker (or built-in)
 * Bluetooth keyboard (or built-in touchscreen)
 * powerbank (battery, LED torch, solar panel, USB charger)
@@ -110,6 +109,7 @@ Possibly shared within family:
 * 3.5mm left/right stereo to mono splitter cable: so they can listen to 2 different shows at the same time
 * possibly support for multiple Bluetooth devices or FM transmitters so they could listen to different shows in neighboring rooms
 * USB SD card reader, USB cable, USB-OTG cable
+* optional: 4G subscription
 
 Personal:
 
@@ -118,11 +118,12 @@ Personal:
 
 Sync:
 
-* periodically drive into a computer with Internet access (community center, office, school)
+* periodically insert drive into a computer with Internet access (community center, office, school, friends)
 * let the website or portable executable app sync new content automatically based on personal profile
 
 ### Development components
 
+* Orange Pi
 * https://en.wikipedia.org/wiki/Raspberry_Pi_Zero
 * https://en.wikipedia.org/wiki/ESP8266
 * https://en.wikipedia.org/wiki/OpenWrt
